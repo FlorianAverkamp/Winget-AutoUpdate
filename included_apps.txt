@@ -1,0 +1,7 @@
+Google.Chrome
+Mozilla.Firefox
+Aircall.Aircall
+SlackTechnologies.Slack
+AgileBits.1Password
+Foxit.FoxitReader
+Dell.CommandUpdate
